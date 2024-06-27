@@ -1,4 +1,4 @@
-Olaá me chamo Jordana! Seja bem-vindo! 💞
+Oie me chamo Jordana! Seja bem-vindo! 💞
 
 No momento estou cursando o 4° semestre da graduação de Análise e Desenvolvimento de Sistemas na SPTECH 📚
 
