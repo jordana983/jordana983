@@ -24,5 +24,4 @@ DTO 😁 <br/>
 Suporte ao Cliente 🙅🏻‍♀️<br/>
 Banco de dados MySQL 🎲
 
-
-
+No primeiro semestre de 2024, concentrei meus esforços no estudo de UX, banco de dados e na elaboração da documentação do projeto Sênior Care, abordando requisitos de negócio, proto personas, backlog, Gannt e planilhas de teste UAT. Para o segundo semestre, pretendo ampliar meus desafios explorando as áreas de back-end, front-end e dados.
